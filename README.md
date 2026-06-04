@@ -8,3 +8,5 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r/100
+created the new branch and changes have been made
+# Bug fix typo update
