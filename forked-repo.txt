@@ -1,0 +1,13 @@
+curl https://api.github.com/repos/jayanthi5122/mcino-Introduction-to-Git-and-GitHub
+
+
+
+
+
+{
+  "full_name": "jayanthi5122/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
